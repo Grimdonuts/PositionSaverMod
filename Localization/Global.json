@@ -1,0 +1,15 @@
+{
+    "Global": true,
+    "Default": {
+        "GLPOSSAVE": "Position Saver",
+        "GLPOSLOAD": "Position Loader"
+    },
+    "French": {
+        "GLPOSSAVE": "Position Saver",
+        "GLPOSLOAD": "Position Loader"
+    },
+    "German": {
+        "GLPOSSAVE": "Position Saver",
+        "GLPOSLOAD": "Position Loader"
+    }
+}
